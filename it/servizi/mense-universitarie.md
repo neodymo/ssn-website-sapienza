@@ -1,10 +1,25 @@
 # Mense Universitarie
 
-Le mense universitarie sono strutture che permettono di mangiare ad un prezzo agevolato (i prezzi per fascia ISEE possono essere consultati nella [pagina dedicata sul sito DiSCo Lazio](https://laziodisco.it/servizi/ristorazione/#costi)) a seconda del proprio ISEE universitario.
+Ogni anno DiSCo offre oltre un milione di pasti a prezzi contenuti nelle mense e nei punti ristoro convenzionati, garantendo qualità, salute e un basso impatto ambientale grazie all'eliminazione della plastica monouso e all'impiego di prodotti biologici, sostenibili e certificati DOP, IGP e STG. Le mense offrono inoltre opzioni per vegetariani e celiaci.
+
+Le mense universitarie sono strutture che permettono di mangiare ad un prezzo agevolato (i prezzi per fascia ISEE possono essere consultati nella pagina delle [fasce di prezzo sul sito DiSCo Lazio](https://laziodisco.it/fasce-di-prezzo/)) a seconda del proprio ISEE universitario.
+
+## A chi è rivolto
+L'accesso alle mense e ai punti ristoro è aperto a tutti gli studenti regolarmente iscritti presso le università statali e non statali, gli Istituti universitari e gli Istituti AFAM (Alta Formazione Artistica, Musicale e Coreutica) con sede legale nella Regione Lazio.
+
+## Costi e agevolazioni
+Il costo dei pasti varia da un minimo di **2,50 €** ad un massimo di **8,40 €** ed è determinato dall'ISEE/ISEEUP Universitario (consulta la pagina delle [fasce di prezzo](https://laziodisco.it/fasce-di-prezzo/)).
+
+* **Studenti idonei o vincitori di borsa di studio:** possono usufruire di tariffe agevolate. Il pasto può essere **completamente gratuito** se, al momento della domanda, non è stata richiesta la monetizzazione del servizio (ossia la scelta di ricevere il valore economico equivalente del pasto).
+* **Presentazione ISEE:** Gli studenti vincitori o idonei alla borsa di studio possono completare la nuova registrazione al servizio ristorazione senza necessità di presentare un nuovo ISEE Universitario.
 
 Gli studenti internazionali possono ottenere l'ISEE soltanto in uno dei CAF convenzionati: l'elenco per l'A.A. 2025/2026 si trova [qui](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). La documentazione richiesta per ottenere il calcolo dell'ISEE si trova sul sito di [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) sotto la voce "Documentazione per il primo accredito di studenti internazionali".
 
 ## Registrazione
+Il servizio di accreditamento è disponibile a partire dal mese di ottobre di ogni anno. L'accreditamento sarà attivo dal **1° ottobre** al **30 settembre** dell'anno successivo; all'inizio di ogni anno accademico occorre quindi richiedere l'aggiornamento della tessera/accreditamento mensa.
+
+Per seguire visivamente i passaggi, puoi consultare il [tutorial ufficiale su YouTube](https://www.youtube.com/watch?v=GVnf3wLzonQ).
+
 Prima di tutto, dovrai registrarti all'[Area Riservata di DiSCo Lazio](https://login.laziodisco.it/access/borse).
 
 Una volta fatto l'accesso, dovrai cliccare su "Servizio Mensa":
@@ -46,7 +61,7 @@ Potrai usare l'app nelle seguenti [mense](https://laziodisco.it/mense/):
 E nei seguenti [punti ristoro](https://laziodisco.it/punti-ristoro/):
 - [Punto Ristoro Caffè dei pittori](https://laziodisco.it/punti-ristoro/caffe-degli-artisti/), Roma, Via Flaminia, 57/59 (vicino al Dipartimento di Architettura di Sapienza)
 - [Punto Ristoro Sant'Andrea](https://laziodisco.it/punti-ristoro/punto-ristoro-santandrea/), Roma, Via di Grotta Rossa, 1039 (all’interno dell’omonimo ospedale)
-    - L'accesso al punto ristoro è riservato agli studenti iscritti presso la facoltà di Medicina e Chirurgia dell’ospedale Sant’Andrea.
+  - L'accesso al punto ristoro è riservato agli studenti iscritti presso la facoltà di Medicina e Chirurgia dell’ospedale Sant’Andrea.
 - [Punto Ristoro Ristorante Vinile](https://laziodisco.it/punti-ristoro/test-punto-ristoro/), Roma, Via Giuseppe Libetta 19
 
 {{% hint info %}}
@@ -58,5 +73,5 @@ In alcune mense è necessario chiamare per prenotare un pasto celiaco. In caso, 
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i> **Attenzione**
 
-È importante controllare giorni e orari di apertura delle mense sui rispettivi siti, siccome potrebbero variare non solo da anno ad anno, ma anche durante l'anno stesso
+È importante controllare giorni e orari di apertura delle mense sui rispettivi siti, siccome potrebbero variare non solo da anno ad anno, ma anche durante l'anno stesso (in particolare per chiusure festive, estive ad agosto o manutenzione).
 {{% /hint %}}

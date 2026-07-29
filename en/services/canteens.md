@@ -1,14 +1,28 @@
 # Student Canteens
 
-University canteens are facilities that allow you to eat at a subsidized price (prices by ISEE bracket can be found on the [dedicated page on the DiSCo Lazio website](https://laziodisco.it/servizi/catering/?lang=en)) depending on your university ISEE (Indicator of Equivalent Economic Situation).
+Every year DiSCo provides more than one million affordable meals in affiliated canteens and eateries, ensuring quality, health, and a low environmental impact by completely eliminating single-use plastic and using organic, sustainable, and PGI-DOP-STG certified products. Canteens also offer options for vegetarians and celiacs.
 
-International students must get ISEE only from an affiliated CAF (Fiscal Assistance Center): the full list can be found [here](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). Required documentation to obtain the ISEE can be found on the website of [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) under the heading "Documentazione per il primo accredito di studenti interazionali" (Documentation for first accreditation of international student).
+University canteens are facilities that allow you to eat at a subsidized price (prices by ISEE bracket can be found on the [price ranges page on the DiSCo Lazio website](https://laziodisco.it/price-ranges/?lang=en)) depending on your university ISEE (Indicator of Equivalent Economic Situation).
+
+## To Whom It Is Addressed
+Access to the canteens and refreshment facilities is open to all students regularly enrolled at state and non-state universities, university institutes, and Institutes of High Musical and Choreographic Artistic Education (AFAM) with legal headquarters in the Lazio Region.
+
+## Costs and Benefits
+The cost of meals ranges from a minimum of **€2.50** to a maximum of **€8.40** and is determined by your University ISEE/ISEEUP (check the official [price ranges page](https://laziodisco.it/price-ranges/?lang=en)).
+
+* **Eligible students or scholarship winners:** Can take advantage of subsidized rates. Meals can be **completely free** if, at the application stage, no monetization of the service was requested (i.e., choosing to receive the equivalent cash value instead of meals).
+* **ISEE Submission:** Students who are scholarship winners or eligible for a scholarship can complete the new registration for the food service without needing to submit a new University ISEE.
+
+International students must get ISEE only from an affiliated CAF (Fiscal Assistance Center): the full list can be found [here](https://laziodisco.it/wp-content/uploads/2025/06/CAF-convenzionati-nel-Lazio-1.pdf). Required documentation to obtain the ISEE can be found on the website of [DiSCo Lazio](http://www.laziodisco.it/servizi/ristorazione/) under the heading "Documentazione per il primo accredito di studenti internazionali" (Documentation for first accreditation of international students).
 
 ## Registration
+The accreditation service is available starting in October each year. Accreditation will be active from **October 1** to **September 30** of the following year; therefore, at the beginning of each academic year, you must request an update of your accreditation/canteen card.
+
+For a visual step-by-step guide, you can watch the [official video tutorial on YouTube](https://www.youtube.com/watch?v=GVnf3wLzonQ).
 
 First things first, register on ["Area Riservata" (Restricted Area) of DiSCo Lazio](https://login.laziodisco.it/access/borse).
 
-Once you access to your restricted area, click on "Servizio Mensa" (Canteen Service):
+Once you access your restricted area, click on "Servizio Mensa" (Canteen Service):
 
 <img src="https://i.imgur.com/g1oXxfz.png">
 
@@ -26,9 +40,9 @@ Finally, using a second device, log into the [restricted area](https://login.laz
 
 <img src="https://i.imgur.com/KQZmLYc.png">
 
-Now, just show the app at the chosen canteen to obtain a meal at the prize of your ISEE range!
+Now, just show the app at the chosen canteen to obtain a meal at the price of your ISEE range!
 
-## Canteens and refreshment points of DiSCo Lazio
+## Canteens and Refreshment Points of DiSCo Lazio
 
 You can use the app in the following [canteens](https://laziodisco.it/canteens/?lang=en):
 - [Mensa Castro Laurenziano](https://laziodisco.it/canteens/castro-laurentian-canteen/?lang=en), Roma, Via del Castro Laurenziano, 7b
@@ -47,7 +61,7 @@ You can use the app in the following [canteens](https://laziodisco.it/canteens/?
 And in the following [refreshment points](https://laziodisco.it/punti-ristoro/):
 - [Punto Ristoro Caffè dei pittori](https://laziodisco.it/punti-ristoro/caffe-degli-artisti/), Roma, Via Flaminia, 57/59 (near the Department of Architecture of Sapienza)
 - [Punto Ristoro Sant'Andrea](https://laziodisco.it/punti-ristoro/punto-ristoro-santandrea/), Roma, Via di Grotta Rossa, 1039 (inside the hospital of the same name)
-    - Access to the refreshment point is reserved for students enrolled at the Faculty of Medicine and Surgery of Sant’Andrea hospital.
+  - Access to the refreshment point is reserved for students enrolled at the Faculty of Medicine and Surgery of Sant’Andrea hospital.
 - [Punto Ristoro Ristorante Vinile](https://laziodisco.it/punti-ristoro/test-punto-ristoro/), Roma, Via Giuseppe Libetta 19
 
 {{% hint info %}}
@@ -59,5 +73,5 @@ In some canteens it is necessary to call to reserve a celiac meal. If so, the ph
 {{% hint warning %}}
 <i class="fa-solid fa-triangle-exclamation" style="color: #FFD43B;"></i> **Warning**
 
-Remember heck opening days and schedule of the canteens on their respective sites: they may change from year to year or during the year.
+Remember to check opening days and schedules of the canteens on their respective websites: they may change from year to year or during the academic year (especially for holiday closures, summer closures in August, or maintenance).
 {{% /hint %}}
