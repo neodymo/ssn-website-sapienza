@@ -4,8 +4,6 @@ The Erasmus+ programme allows Sapienza students to complete part of their studie
 
 Erasmus+ study mobility can last **from 2 to 12 months**. The period may be divided into more than one experience, subject to the overall limit applicable to each study cycle.
 
-Erasmus+ status provides academic recognition for successfully completed activities, exemption from tuition fees at the host university (fees at Sapienza still apply), and access to the services offered by the host institution to its own students.
-
 > Deadlines, eligibility requirements, available destinations and procedures may change from one academic year to another. Always check the [official Sapienza Erasmus+ Study page](https://www.uniroma1.it/en/pagina/erasmus-sapienza-students-studies) for up-to-date information.
 
 ## How to apply
@@ -28,8 +26,6 @@ For information about destinations and agreements available in your academic are
 When choosing a host university, compare its course catalogue in advance with the courses included in your Sapienza degree programme. This helps you prepare a coherent **Learning Agreement** proposal and supports the subsequent recognition process.
 
 As an exploratory tool, you can consult [ARIS - Suggerimento Esami](http://aris.me/erasmus/erasmus-tool.html), which organises, by faculty, suggestions for possible matches between Sapienza courses and courses offered by universities abroad. It can be useful for an initial search, but **it is not an official source and does not guarantee automatic recognition of any exam**: its content, course availability and suggested matches may not be up to date. Your final choice of activities must be agreed with the academic mobility coordinator and recorded in the Learning Agreement.
-
-Possible destinations also include universities belonging to the [CIVIS Alliance](https://www.uniroma1.it/en/pagina/civis-european-civic-university). The places and agreements actually available depend on the relevant call and your academic area.
 
 ## Language requirements
 
