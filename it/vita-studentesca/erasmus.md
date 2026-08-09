@@ -4,8 +4,6 @@ Il programma Erasmus+ permette agli studenti e alle studentesse della Sapienza d
 
 La mobilità Erasmus+ per studio può durare **da 2 a 12 mesi**. Il periodo può essere suddiviso in più esperienze, nel rispetto del limite complessivo previsto per ciascun ciclo di studi.
 
-Con lo status di studente Erasmus+ puoi ottenere il riconoscimento accademico delle attività completate, non pagare le tasse di iscrizione presso l'università ospitante (restano dovute quelle a Sapienza) e accedere ai servizi messi a disposizione degli studenti dell'ateneo ospitante.
-
 > Le scadenze, i requisiti, le destinazioni disponibili e le procedure possono cambiare da un anno accademico all'altro. Per le informazioni aggiornate consulta sempre la [pagina ufficiale Erasmus+ Studio di Sapienza](https://www.uniroma1.it/it/pagina/erasmus-studenti-sapienza-studio).
 
 ## Come partecipare
@@ -28,8 +26,6 @@ Per informazioni sulle destinazioni e sugli accordi disponibili per la tua area 
 Nella scelta dell'università ospitante è importante confrontare in anticipo gli insegnamenti disponibili con quelli previsti dal proprio corso di laurea: questa verifica aiuta a preparare una proposta di **Learning Agreement** coerente e facilita il successivo riconoscimento delle attività.
 
 Come strumento orientativo puoi consultare [ARIS - Suggerimento Esami](http://aris.me/erasmus/erasmus-tool.html), che raccoglie, suddivisi per facoltà, suggerimenti relativi a possibili corrispondenze tra insegnamenti Sapienza e insegnamenti offerti da atenei esteri. Il sito può essere utile per una prima esplorazione, ma **non è una fonte ufficiale e non garantisce automaticamente il riconoscimento degli esami**: contenuti, disponibilità dei corsi e corrispondenze potrebbero non essere aggiornati. La scelta definitiva delle attività deve essere concordata con il responsabile accademico della mobilità e formalizzata nel Learning Agreement.
-
-Tra le possibili destinazioni rientrano anche gli atenei dell'[Alleanza CIVIS](https://www.uniroma1.it/it/pagina/civis-universita-civica-europea). Disponibilità dei posti e accordi effettivamente utilizzabili dipendono dal bando e dalla propria area didattica.
 
 ## Requisiti linguistici
 
